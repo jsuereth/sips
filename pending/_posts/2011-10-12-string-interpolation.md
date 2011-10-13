@@ -1,6 +1,6 @@
 ---
 layout: sip
-title: [SIP-11] String Interpolation
+title: SIP-11 - String Interpolation
 ---
 
 This SIP is an embedded google document.
