@@ -33,4 +33,4 @@ class Foo
 
 Testing changes requires installing [Jekyll](https://github.com/mojombo/jekyll/wiki/Install).
 
-Use the `run-server.sh` script locally to ensure your SIP looks correct in the website.  
+Use the `run-server.sh` script locally to ensure your SIP looks correct in the website.  This will create a local site at `http://localhost:4000/sips`.
