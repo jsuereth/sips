@@ -1,6 +1,7 @@
 ---
 layout: sip
 title: SIP-13 - Implicit classes
+author: Josh Suereth
 ---
 
 This SIP is based on [this pre-draft](https://docs.google.com/document/d/1k-aGAGmbrDB-2pJ3uDPpHVKno6p-XbnkVHDc07zPrzQ/edit?hl=en_US).

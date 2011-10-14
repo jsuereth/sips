@@ -1,6 +1,7 @@
 ---
 layout: sip
 title: SIP-11 - String Interpolation
+author: Martin Odersky
 ---
 
 This SIP is an embedded google document.

@@ -6,3 +6,15 @@
 .brand {
   
 }
+
+.sip-date {
+  font-style: italic;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.sip-author {
+  font-size: 14px;
+  font-style: italic;
+  font-weight: bold;
+}
