@@ -12,3 +12,4 @@ To reject a SIP simply:
 To mark a SIP completed simply:
 
     git mv pending/_posts/{sip-file}  completed/_posts/{sip-file}
+
