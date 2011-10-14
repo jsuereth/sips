@@ -3,7 +3,7 @@
     <div class="topbar" >
       <div class="topbar-inner">
         <div class="container">
-          <a class="brand" href="/sips/index.html"><img class="logo" src="/sips/imgs/scala-logo.png"/> Improvement Process</a>
+          <a class="brand" href="/sips/index.html"><img class="logo" src="/sips/imgs/scala-logo.png"/>Improvement Process</a>
           <ul class="nav">
            <li><a href="/sips/sip-submission.html">Submitting a new SIP</a></li>
            <li><a href="/sips/sip-list.html">SIP List</a></li>
